@@ -1,4 +1,4 @@
-# chatgpt Search for Chrome Privacy Policy
+# ChatGPT Search for Chrome Privacy Policy
 
 1. Information We Collect
 The Extension may collect certain types of information to provide and improve the service:
